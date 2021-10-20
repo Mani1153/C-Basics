@@ -10,7 +10,7 @@ void main()
 	cgpa = 8.57;
 	initial = 'E';
 	// output 
-	printf("%d\n", age);
-	printf("%f\n", cgpa);
-	printf("%c", initial);
+	printf("Age of the student is %d\n", age);
+	printf("CGPA of the student is %f\n", cgpa);
+	printf("Initial of the student is%c", initial);
 }
